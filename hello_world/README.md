@@ -1,8 +1,13 @@
 # hello_world
 
-A new Flutter project.
+1st Flutter project.
 
 ## Getting Started
+
+1.) Flutter:New Project
+2.) Copy and paste the files
+3.) cd into directory
+4.) Flutter run
 
 This project is a starting point for a Flutter application.
 
